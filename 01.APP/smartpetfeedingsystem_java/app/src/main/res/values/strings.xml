@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">智能宠物投喂器</string>
+    <string name="debug">调试</string>
+    <string name="history">历史数据</string>
+</resources>
